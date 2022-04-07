@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boonaki
-- 👀 I’m interested in video game development
-- 🌱 I’m currently learning C++/C#/Java/FullstackDevelopment/
+- 👀 I’m interested in the development of web-apps, video games and AI
+- 🌱 I’m currently learning C++/C#/Java/Full-stack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
