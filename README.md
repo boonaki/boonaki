@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua Durrett</h1>
 <h3 align="center">Software-Engineer @ 100Devs</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://boonaki.me)
+- 🔭 I’m currently working on [freelance projects](https://boonaki.me)
 
 - 🌱 I’m currently learning **Javascript, React.js, Node.js & Java**
 
