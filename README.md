@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Durrett</h1>
-<h3 align="center">Full Stack Developer @ 100Devs</h3>
+<h3 align="center">Software @ 100Devs</h3>
 
 - 🔭 I’m currently working on [my portfolio](https://boonaki.me)
 
