@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://boonaki.me](https://boonaki.me)
 
-- 💬 Ask me about **HTML-5, CSS3 & ATLA**
+- 💬 Ask me about **Coding, ATLA & my heritage!**
 
 - 📫 How to reach me **joshuadurrett@boonaki.me**
 
