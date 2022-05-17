@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **joshuadurrett@boonaki.me**
 
-- 📄 Know about my experiences [https://boonaki.me](https://boonaki.me)
+<!-- - 📄 Know about my experiences [https://boonaki.me](https://boonaki.me) -->
 
 - ⚡ Fun fact **I am Marshallese 🇲🇭**
 
