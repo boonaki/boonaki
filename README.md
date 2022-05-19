@@ -13,7 +13,7 @@
 
 <!-- - 📄 Know about my experiences [https://boonaki.me](https://boonaki.me) -->
 
-- **I am Marshallese 🇲🇭**
+- 🇲🇭 **I am Marshallese**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
