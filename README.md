@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [freelance projects](https://boonaki.me)
 
-- 🌱 I’m currently learning **MERN Tech Stack & Java**
+- 🌱 I’m currently learning **MERN Tech Stack**
 
 - 👨‍💻 All of my projects are available at [https://boonaki.me](https://boonaki.me)
 
