@@ -17,7 +17,7 @@
   </a>
 <h3 align="left">Software-Engineer @ 100Devs</h3>
 
-<h4>My name is Joshua, I am a Marshallese-American 🇲🇭 Fullstack Software-Engineer looking for interesting challenges to take on where I can lend my skills towards the creation of interesting projects.</h4>
+<h4>I am a Marshallese-American 🇲🇭 Fullstack Software-Engineer looking for interesting challenges to take on where I can lend my skills towards the creation of interesting projects.</h4>
 
 - 🔭 I’m currently working on [freelance projects](https://boonaki.me)
 
