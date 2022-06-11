@@ -42,6 +42,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=cdf998&style=plastic&logo=javascript"/>
  </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=boonaki&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" src="https://git.io/streak-stats"></p>
