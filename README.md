@@ -22,8 +22,6 @@
 
 - 🔭 I’m currently working on [freelance projects](https://boonaki.me)
 
-- 🌱 I’m currently learning **MERN Tech Stack**
-
 - 👨‍💻 My portfolio: [https://boonaki.me](https://boonaki.me)
 
 - 💬 Ask me about **Gaming, ATLA & my heritage!**
