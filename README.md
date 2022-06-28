@@ -48,12 +48,12 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=boonaki&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 <p align="center">
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boonaki&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="boonaki" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boonaki&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="boonaki" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boonaki&show_icons=true&theme=tokyonight&locale=en" alt="boonaki" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boonaki&show_icons=true&theme=tokyonight&locale=en" alt="boonaki" /></p>
 </p>
 
-<h1></h1>
+##
 <p align="center">
   <a href="https://boonaki.me" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
