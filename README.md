@@ -50,7 +50,7 @@
 <p align="center">
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boonaki&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="boonaki" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boonaki&show_icons=true&theme=tokyonight&locale=en" alt="boonaki" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boonaki&show_icons=true&theme=tokyonight&locale=en" alt="boonaki" /></p> -->
 </p>
 
 ##
