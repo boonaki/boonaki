@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
-<h3 align="left">Software-Engineer @ 100Devs</h3>
+<h3 align="left">Full-stack developer @ 100Devs</h3>
 
 <h4>I am a Marshallese-American 🇲🇭 Fullstack Software-Engineer looking for interesting challenges to take on where I can lend my skills towards the creation of interesting projects.</h4>
 
