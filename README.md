@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/91851563/173132017-d061043a-5a50-455a-b9d9-196362aaaeed.png" width="100%">
-<h1 align="center">Hi 👋, I'm Josh Durrett</h1>
+<h1 align="center">Hi 👋, I'm Joshua Durrett</h1>
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
