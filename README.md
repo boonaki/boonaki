@@ -24,8 +24,6 @@
 
 - 👨‍💻 My portfolio: [https://boonaki.me](https://boonaki.me)
 
-- 💬 Ask me about **Gaming, ATLA & my heritage!**
-
 - 📫 How to reach me **joshuadurrett@boonaki.me**
 
 <h3 align="center">Technologies:</h3>
