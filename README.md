@@ -15,7 +15,7 @@
   <a href="https://angel.co/u/joshua-durrett" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://boonaki.me/imgs/JoshDurrett_Resume.pdf" target="_blank">
+  <a href="https://boonaki.me/imgs/Josh_Durrett_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
