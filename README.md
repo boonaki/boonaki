@@ -62,7 +62,7 @@
       <h3 align="center">NASA APOD</h3>
         <br />
         <a target="_blank" href="https://nasaapodapp.herokuapp.com/">
-            <img src="images/gif1.gif" width="100%" alt="NASA APOD"/>
+            <img src="imgs/nasagif" width="100%" alt="NASA APOD"/>
         </a>
         <br />
         <p align="center">
@@ -101,7 +101,7 @@
       <h3 align="center">Just Teas</h3>
         <br />
         <a target="_blank" href="https://justteas.herokuapp.com/">
-            <img src="images/gif1.gif" width="100%" alt="Tea App"/>
+            <img src="imgs/justteasgif" width="100%" alt="Tea App"/>
         </a>
         <br />
         <p align="center">
@@ -140,7 +140,7 @@
       <h3 align="center">Boonaki's Tea API</h3>
       <br />
         <a target="_blank" href="https://tea-api-boonaki.herokuapp.com/">
-          <img src="https://boonaki.me/imgs/teaapi.gif" width="100%" alt="Tea API"/>
+          <img src="imgs/teaapigif.gif" width="100%" alt="Tea API"/>
         </a>
       <br />
         <p align="center">
