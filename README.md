@@ -53,8 +53,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boonaki&show_icons=true&theme=tokyonight&locale=en" alt="boonaki" /></p> -->
 
-##
-
+# <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
 
   <tr>
