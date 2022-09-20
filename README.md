@@ -80,7 +80,7 @@
       <h3 align="center">Portfolio</h3>
         <br />
       <a target="_blank" href="https://boonaki.me/">
-            <img src="https://boonaki.me/imgs/mcmpdbgif" width="100%"  alt="MCMPDB"/>
+            <img src="imgs/portfoliogif.gif" width="100%"  alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
@@ -119,7 +119,7 @@
       <h3 align="center">MC Modpack DB</h3>
         <br />
       <a target="_blank" href="https://github.com/boonaki/mc-modpackdb">
-            <img src="https://boonaki.me/imgs/mcmpdbgif" width="100%"  alt="MCMPDB"/>
+            <img src="imgs/mcmpdbgif" width="100%"  alt="MCMPDB"/>
         </a>
         <br />
         <p align="center">
