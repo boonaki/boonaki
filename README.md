@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on [freelance projects](https://boonaki.me)
 
-- 👨‍💻 My portfolio: [https://boonaki.me](https://boonaki.me/dev)
+- 👨‍💻 My portfolio: [https://boonaki.me/dev](https://boonaki.me/dev)
 
 - 📫 How to reach me **joshuadurrett@boonaki.me**
 
