@@ -140,7 +140,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Boonaki's Tea API</h3>
       <br />
-        <a target="_blank" href="boonakitea.up.railway.app">
+        <a target="_blank" href="https://boonakitea.up.railway.app">
           <img src="imgs/teaapigif.gif" width="100%" alt="Tea API"/>
         </a>
       <br />
@@ -148,7 +148,7 @@
   <a href="https://github.com/boonaki/boonakis-tea-api" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="boonakitea.up.railway.app" target="_blank">
+  <a href="https://boonakitea.up.railway.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
