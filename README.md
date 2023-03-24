@@ -63,7 +63,7 @@
       <h3 align="center">progressio</h3>
         <br />
         <a target="_blank" href="https://progress.cyclic.app">
-            <img src="imgs/nasagif" width="100%" alt="Progressio"/>
+            <img src="imgs/progressiogif" width="100%" alt="Progressio"/>
         </a>
         <br />
         <p align="center">
