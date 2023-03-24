@@ -60,7 +60,7 @@
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">progressio</h3>
+      <h3 align="center">Progressio</h3>
         <br />
         <a target="_blank" href="https://progress.cyclic.app">
             <img src="imgs/progressiogif" width="100%" alt="Progressio"/>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript, Node.js, NASA's Open API's, Express.js</strong> - A fullstack application that takes information from one of NASA's public API's, and displays information corresponding to the selected day, with the default being today.</p>
+        <p><strong>HTML5, Tailwind, Javascript, Node.js, Express.js</strong> - A place to post, organize and share the progress you make in any hobby or activity you have interest in.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
