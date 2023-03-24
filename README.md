@@ -60,18 +60,18 @@
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NASA APOD</h3>
+      <h3 align="center">progressio</h3>
         <br />
-        <a target="_blank" href="https://nasaapodfinder.up.railway.app/">
-            <img src="imgs/nasagif" width="100%" alt="NASA APOD"/>
+        <a target="_blank" href="https://progress.cyclic.app">
+            <img src="imgs/nasagif" width="100%" alt="Progressio"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/boonaki/nasaAPODapp" target="_blank">
+  <a href="https://github.com/boonaki/progressio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://nasaapodfinder.up.railway.app/" target="_blank">
+  <a href="https://progress.cyclic.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -99,22 +99,22 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Just Teas</h3>
+      <h3 align="center">NASA APOD</h3>
         <br />
-        <a target="_blank" href="https://justteas.herokuapp.com/">
-            <img src="imgs/justteasgif" width="100%" alt="Tea App"/>
+        <a target="_blank" href="https://nasaapodfinder.up.railway.app/">
+            <img src="imgs/nasagif" width="100%" alt="NASA APOD"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/boonaki/just-teas" target="_blank">
+  <a href="https://github.com/boonaki/nasaAPODapp" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://justteas.herokuapp.com/" target="_blank">
+  <a href="https://nasaapodfinder.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, EJS, Javascript, Node.js, Boonaki's Tea API, Express.js</strong> - Looking for tea? This application display's basic information of many different types and blends of tea using a personally developed Web-API.</p>
+        <p><strong>HTML5, CSS3, Javascript, Node.js, NASA's Open API's, Express.js</strong> - A fullstack application that takes information from one of NASA's public API's, and displays information corresponding to the selected day, with the default being today.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">MC Modpack DB</h3>
