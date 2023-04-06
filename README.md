@@ -3,7 +3,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://boonaki.me/dev" target="_blank">
+  <a href="https://boonaki.me" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/joshuadurrett/" target="_blank">
@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on [freelance projects](https://boonaki.me)
 
-- 👨‍💻 My portfolio: [https://boonaki.me/dev](https://boonaki.me/dev)
+- 👨‍💻 My portfolio: [https://boonaki.me](https://boonaki.me/)
 
 - 📫 How to reach me **joshuadurrett@boonaki.me**
 
@@ -178,7 +178,7 @@
 
 ##
 <p align="center">
-  <a href="https://boonaki.me/dev" target="_blank">
+  <a href="https://boonaki.me" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/joshuadurrett/" target="_blank">
