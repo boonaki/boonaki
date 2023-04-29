@@ -20,7 +20,7 @@
 
 <h4>I am a Fullstack Software-Engineer looking for interesting challenges to take on where I can lend my skills towards the creation of interesting projects.</h4>
 
-- 🔭 I’m currently working on [freelance projects](https://boonaki.me)
+- 🔭 I’m currently working on [freelance projects](https://boonaki.me) and [Progressio](https://github.com/boonaki/progressio)
 
 - 👨‍💻 My portfolio: [https://boonaki.me](https://boonaki.me/)
 
