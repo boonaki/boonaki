@@ -99,7 +99,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NASA APOD</h3>
+      <h3 align="center">NASA Research APOD</h3>
         <br />
         <a target="_blank" href="https://nasaapodfinder.up.railway.app/">
             <img src="imgs/nasagif" width="100%" alt="NASA APOD"/>
