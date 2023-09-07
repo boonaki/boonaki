@@ -138,7 +138,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Boonaki's Tea API</h3>
+      <h3 align="center">Boonaki's Tea Repository</h3>
       <br />
         <a target="_blank" href="https://boonakitea.cyclic.app">
           <img src="imgs/teaapigif.gif" width="100%" alt="Tea API"/>
