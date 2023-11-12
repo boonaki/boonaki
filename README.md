@@ -47,13 +47,9 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
  </p>
 
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=boonaki&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" src="https://git.io/streak-stats"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=boonaki&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" src="https://git.io/streak-stats"></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=boonaki&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<p align="center">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boonaki&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="boonaki" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boonaki&show_icons=true&theme=tokyonight&locale=en" alt="boonaki" /></p> -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=boonaki&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 # <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -71,8 +67,11 @@
   <a href="https://github.com/boonaki/progressio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://evolvr.ink" target="_blank">
+  <a href="https://progress.cyclic.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+  <a href="https://evolvr.ink" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=NEW&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, Tailwind, Javascript, Node.js, Express.js</strong> - A place to post, organize and share the progress you make in any hobby or activity you have interest in.</p>
@@ -106,15 +105,23 @@
         </a>
         <br />
         <p align="center">
+          <a href="https://github.com/boonaki/nasaAPODapp">
+            <img src="https://img.shields.io/badge/REPO-lightgrey?style=social&logo=github" alt="Portfolio Site Astro GitHub Repo">
+          </a>
+          <a href="https://nasaapodfinder.up.railway.app/" style=".visit { margin-top: 10px; }">
+            <img class="visit" src="https://img.shields.io/badge/-VISIT-green?style=for-the-badge&color=000000" alt="Portfolio Site Astro Live Site">
+          </a>
+        </p>
           
-  <a href="https://github.com/boonaki/nasaAPODapp" target="_blank">
+  <!-- 
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://nasaapodfinder.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript, Node.js, NASA's Open API's, Express.js</strong> - A fullstack application that takes information from one of NASA's public API's, and displays information corresponding to the selected day, with the default being today.</p>
+  </a> 
+  -->
+  <p><strong>HTML5, CSS3, Javascript, Node.js, NASA's Open API's, Express.js</strong> - A fullstack application that takes information from one of NASA's public API's, and displays information corresponding to the selected day, with the default being today.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">MC Modpack DB</h3>
@@ -174,6 +181,10 @@
     </td>
   </tr>
 </table>
+
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boonaki&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="boonaki" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boonaki&show_icons=true&theme=tokyonight&locale=en" alt="boonaki" /></p> -->
 
 
 ##
