@@ -16,9 +16,9 @@
       <img src="https://img.shields.io/badge/Angel.co-FFA500?style=for-the-badge&logo=rss&logoColor=white"/>
   </a>
 </p>
-<h3 align="left">Full-stack developer @ 100Devs</h3>
+<h3 align="left">Full-stack Software Engineer @ 100Devs</h3>
 
-<p>I am a Fullstack Software-Engineer looking for interesting challenges to take on where I can lend my skills towards the creation of interesting projects.</p>
+<!-- <p>A Fullstack Software-Engineer</p> -->
 
 - 🔭 I’m currently working on [freelance projects](https://boonaki.me) and [Evolvr](https://github.com/boonaki/progressio)
 
