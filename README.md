@@ -20,14 +20,15 @@
 
 <p>I am a Fullstack Software-Engineer looking for interesting challenges to take on where I can lend my skills towards the creation of interesting projects.</p>
 
-- 🔭 I’m currently working on [freelance projects](https://boonaki.me) and [Progressio](https://github.com/boonaki/progressio)
+- 🔭 I’m currently working on [freelance projects](https://boonaki.me) and [Evolvr](https://github.com/boonaki/progressio)
 
 - 👨‍💻 My portfolio: [https://boonaki.me](https://boonaki.me/)
 
-- 📫 How to reach me **joshuadurrett@boonaki.me**
+- 📫 How to reach me **joshdurrett17@gmail.com**
 
 <h3 align="center">Technologies:</h3>
 <p align="center">
+    <img src="https://img.shields.io/badge/Rust-404D59?style=for-the-badge&logo=rust&logoColor=red"/>
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -63,16 +64,26 @@
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/boonaki/progressio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://progress.cyclic.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-  <a href="https://evolvr.ink" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=NEW&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+           <a href="https://github.com/boonaki/progressio">
+            <img src="https://img.shields.io/badge/REPO-lightgrey?style=social&logo=github" alt="Portfolio Site Astro GitHub Repo">
+          </a>
+          <a href="https://progress.cyclic.app">
+            <img class="visit" height="25px" src="https://img.shields.io/badge/-VISIT-green?style=for-the-badge&color=000000" alt="Portfolio Site Astro Live Site">
+          </a>
+          <a href="https://evolvr.ink">
+            <img class="visit" height="25px" src="https://img.shields.io/badge/-Evolvr-green?style=for-the-badge&color=000000" alt="Portfolio Site Astro Live Site">
+          </a>
+          <!--
+          <a href="https://github.com/boonaki/progressio" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>  
+          <a href="https://progress.cyclic.app" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+          <a href="https://evolvr.ink" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=NEW&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+          -->
       </p>
         <p><strong>HTML5, Tailwind, Javascript, Node.js, Express.js</strong> - A place to post, organize and share the progress you make in any hobby or activity you have interest in.</p>
     </td>
@@ -84,13 +95,20 @@
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/boonaki/PortfolioV2" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://boonaki.me/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+          <a href="https://github.com/boonaki/PortfolioV2">
+            <img src="https://img.shields.io/badge/REPO-lightgrey?style=social&logo=github" alt="Portfolio Site Astro GitHub Repo">
+          </a>
+          <a href="https://boonaki.me/">
+            <img class="visit" height="25px" src="https://img.shields.io/badge/-VISIT-green?style=for-the-badge&color=000000" alt="Portfolio Site Astro Live Site">
+          </a>
+          <!--
+          <a href="https://github.com/boonaki/PortfolioV2" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="https://boonaki.me/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+          -->
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
@@ -108,8 +126,8 @@
           <a href="https://github.com/boonaki/nasaAPODapp">
             <img src="https://img.shields.io/badge/REPO-lightgrey?style=social&logo=github" alt="Portfolio Site Astro GitHub Repo">
           </a>
-          <a href="https://nasaapodfinder.up.railway.app/" style=".visit { margin-top: 10px; }">
-            <img class="visit" src="https://img.shields.io/badge/-VISIT-green?style=for-the-badge&color=000000" alt="Portfolio Site Astro Live Site">
+          <a href="https://nasaapodfinder.up.railway.app/">
+            <img class="visit" height="25px" src="https://img.shields.io/badge/-VISIT-green?style=for-the-badge&color=000000" alt="Portfolio Site Astro Live Site">
           </a>
         </p>
           
@@ -127,17 +145,24 @@
       <h3 align="center">MC Modpack DB</h3>
         <br />
       <a target="_blank" href="https://github.com/boonaki/mc-modpackdb">
-            <img src="imgs/mcmpdbgif" width="100%"  alt="MCMPDB"/>
+        <img src="imgs/mcmpdbgif" width="100%"  alt="MCMPDB"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/boonaki/mc-modpackdb">
+          <img src="https://img.shields.io/badge/REPO-lightgrey?style=social&logo=github" alt="Portfolio Site Astro GitHub Repo">
         </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/boonaki/mc-modpackdb" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://github.com/boonaki/mc-modpackdb" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+        <a href="https://github.com/boonaki/mc-modpackdb">
+          <img class="visit" height="25px" src="https://img.shields.io/badge/-VISIT-green?style=for-the-badge&color=000000" alt="Portfolio Site Astro Live Site">
+        </a>
+        <!--
+        <a href="https://github.com/boonaki/mc-modpackdb" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://github.com/boonaki/mc-modpackdb" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+        -->
       </p>
         <p><strong>HTML5, CSS3, EJS, Javascript, MongoDB, JWT, Node.js, Curseforge API, ModpackIndex API, Express.js</strong> - A fullstack web-application, displaying some of the best modpacks the community has to offer. Users can create an account and log into the application and view the visual database.</p>
     </td>
@@ -145,39 +170,52 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Boonaki's Tea Repository</h3>
+      <h3 align="center">Tea Repository</h3>
       <br />
         <a target="_blank" href="https://boonakitea.cyclic.app">
           <img src="imgs/teaapigif.gif" width="100%" alt="Tea API"/>
         </a>
       <br />
-        <p align="center">
-  <a href="https://github.com/boonaki/boonakis-tea-api" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://boonakitea.cyclic.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+      <p align="center">
+        <a href="https://github.com/boonaki/boonakis-tea-api">
+          <img src="https://img.shields.io/badge/REPO-lightgrey?style=social&logo=github" alt="Portfolio Site Astro GitHub Repo">
+        </a>
+        <a href="https://boonakitea.cyclic.app">
+          <img class="visit" height="25px" src="https://img.shields.io/badge/-VISIT-green?style=for-the-badge&color=000000" alt="Portfolio Site Astro Live Site">
+        </a>
+<!--         <a href="https://github.com/boonaki/boonakis-tea-api" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://boonakitea.cyclic.app" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a> -->
       </p>
         <p><strong>HTML5, CSS3, TailwindCSS, Javascript, MongoDB, Node.js, Express.js</strong> - A free and open-source Web-API for tea, with specific information for each tea such as origin, alternative names, types and a quick description.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Square Tag</h3>
         <br />
-        <a target="_blank" href="https://squaretag.netlify.app/">
-          <img src="https://boonaki.me/imgs/sg.gif" width="100%" alt="Square Tag"/>
+      <a target="_blank" href="https://squaretag.netlify.app/">
+        <img src="https://boonaki.me/imgs/sg.gif" width="100%" alt="Square Tag"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/boonaki/squaretag">
+          <img src="https://img.shields.io/badge/REPO-lightgrey?style=social&logo=github" alt="Portfolio Site Astro GitHub Repo">
         </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/boonaki/squaretag" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://squaretag.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+        <a href="https://squaretag.netlify.app">
+          <img class="visit" height="25px" src="https://img.shields.io/badge/-VISIT-green?style=for-the-badge&color=000000" alt="Portfolio Site Astro Live Site">
+        </a>
+        <!--  
+        <a href="https://github.com/boonaki/squaretag" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://squaretag.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+        -->
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Think you can be faster than a computer? In this game, you will try to tag the box. Once tagged, players will be alerted of their victory.</p>
+      <p><strong>HTML5, CSS3, & Javascript</strong> - Think you can be faster than a computer? In this game, you will try to tag the box. Once tagged, players will be alerted of their victory.</p>
     </td>
   </tr>
 </table>
