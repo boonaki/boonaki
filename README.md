@@ -239,8 +239,8 @@
   <a href="https://angel.co/u/joshua-durrett" target="_blank">
       <img src="https://img.shields.io/badge/Angel.co-FFA500?style=for-the-badge&logo=rss&logoColor=white"/>
   </a>
-  <a href="https://boonaki.me/imgs/Josh_Durrett_Resume.pdf" target="_blank">
+<!--   <a href="https://boonaki.me/imgs/Josh_Durrett_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
