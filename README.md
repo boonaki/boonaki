@@ -68,7 +68,7 @@
             <img src="https://img.shields.io/badge/REPO-lightgrey?style=social&logo=github" alt="Portfolio Site Astro GitHub Repo">
           </a>
           <a href="https://evolvr.ink">
-            <img class="visit" height="25px" src="https://img.shields.io/badge/-Evolvr-green?style=for-the-badge&color=000000" alt="Portfolio Site Astro Live Site">
+            <img class="visit" height="25px" src="https://img.shields.io/badge/-VISIT-green?style=for-the-badge&color=000000" alt="Portfolio Site Astro Live Site">
           </a>
           <!--
           <a href="https://github.com/boonaki/progressio" target="_blank">
