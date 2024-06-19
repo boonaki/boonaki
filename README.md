@@ -57,18 +57,15 @@
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Progressio</h3>
+      <h3 align="center">Evolvr</h3>
         <br />
-        <a target="_blank" href="https://progress.cyclic.app">
+        <a target="_blank" href="https://evolvr.ink">
             <img src="imgs/progressiogif" width="100%" alt="Progressio"/>
         </a>
         <br />
         <p align="center">
            <a href="https://github.com/boonaki/progressio">
             <img src="https://img.shields.io/badge/REPO-lightgrey?style=social&logo=github" alt="Portfolio Site Astro GitHub Repo">
-          </a>
-          <a href="https://progress.cyclic.app">
-            <img class="visit" height="25px" src="https://img.shields.io/badge/-VISIT-green?style=for-the-badge&color=000000" alt="Portfolio Site Astro Live Site">
           </a>
           <a href="https://evolvr.ink">
             <img class="visit" height="25px" src="https://img.shields.io/badge/-Evolvr-green?style=for-the-badge&color=000000" alt="Portfolio Site Astro Live Site">
@@ -85,7 +82,7 @@
           </a>
           -->
       </p>
-        <p><strong>HTML5, Tailwind, Javascript, Node.js, Express.js</strong> - A place to post, organize and share the progress you make in any hobby or activity you have interest in.</p>
+        <p><strong>React, Tailwind, Typescript, Next.js</strong> - A place to post, organize and share the progress you make in any hobby or activity you have interest in.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
