@@ -20,7 +20,7 @@
 
 <!-- <p>A Fullstack Software-Engineer</p> -->
 
-- 🔭 I’m currently working on [freelance projects](https://boonaki.me) and [Evolvr](https://github.com/boonaki/progressio)
+- 🔭 I’m currently working on [freelance projects](https://boonaki.me) and an un-announced project.
 
 - 👨‍💻 My portfolio: [https://boonaki.me](https://boonaki.me/)
 
