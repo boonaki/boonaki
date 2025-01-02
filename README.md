@@ -12,9 +12,6 @@
   <a href="https://twitter.com/durrettjosh" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://angel.co/u/joshua-durrett" target="_blank">
-      <img src="https://img.shields.io/badge/Angel.co-FFA500?style=for-the-badge&logo=rss&logoColor=white"/>
-  </a>
 </p>
 <h3 align="left">Full-stack Software Engineer @ 100Devs</h3>
 
