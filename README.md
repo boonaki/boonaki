@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
-<h3 align="left">Software Engineer @ Engram</h3>
+<h3 align="left">Software Engineer</h3>
 
 - 👨‍💻 My portfolio: [https://boonaki.me](https://boonaki.me/)
 
