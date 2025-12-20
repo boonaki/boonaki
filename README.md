@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
  </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=boonaki&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" src="https://git.io/streak-stats"></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=boonaki" alt="GitHub Streak" /></a></p>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=boonaki&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
